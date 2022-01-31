@@ -1,3 +1,7 @@
+### Blogs on every new tab
+Scrapes blog sites ( ~ dev.to currently ~ ) and lists them along with the url on every new tab
+
+
 ### Pre-requisites
 ``` sudo npm install --global browserify ```
 ``` sudo npm install --global watchify ```
